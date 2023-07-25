@@ -7,8 +7,8 @@ function formatName(user) {
 }
 
 const user = {
-	firstName: 'Ahk',
-	lastName: `Al-Mu'min`,
+	firstName: 'Michael',
+	lastName: 'Kleemoff',
 };
 
 const peace = <h1>Peace Earth 🖖🌍. My name is {formatName(user)}!</h1>;
