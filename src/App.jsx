@@ -2,6 +2,8 @@ import './App.css';
 import ContactList from './ContactList';
 import Post from './Post';
 
+console.log(`${import.meta.env.VITE_KEY}`);
+
 function formatName(user) {
 	return `${user.firstName} ${user.lastName}`;
 }
