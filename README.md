@@ -1,4 +1,6 @@
-# React + Vite
+# My Social Media App
+
+[App Live Site on Netlify](https://mkleemoff-my-app-social-media-app.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
